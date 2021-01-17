@@ -3,7 +3,7 @@
 
 * Performed data preprocessing.
 * Performed Topic Analysis on the data set obtained from kaggle.
-* Performed data vectorization.
+* Performed data vectorization using the Universal Sentence Encoder[USE]("https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3").
 * Performed sentiment analysis.
 * Created a confusion matrix.
 
